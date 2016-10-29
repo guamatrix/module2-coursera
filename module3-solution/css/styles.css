@@ -1,0 +1,44 @@
+/* global style */
+*{
+	box-sizing: border-box;
+
+}
+
+body{
+	padding-top: 70px
+}
+/* header styles */
+
+/*.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+
+	border-color: 1px solid black;
+}*/
+.navbar-brand a{
+	color: black;
+}
+
+#menu-nav > ul{
+	background-color: #C8C8C8;
+}
+
+#list-nav li:nth-child(2), li:nth-child(1){
+	border-bottom: 1px solid #ddd;
+    
+
+}
+
+
+/* Main styles */
+
+.info{
+	background-color: #ccc;
+}
+
+.info p{
+	margin: 10px;
+}
+
+section h2{
+	padding-top: 10px;
+}
+
